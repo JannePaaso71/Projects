@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="error_no_data">No data available.</string>
+    <string name="error_api">Failed to fetch data.</string>
+</resources>
